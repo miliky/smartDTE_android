@@ -1,0 +1,186 @@
+[
+  {
+    "name": "attrs",
+    "version": "25.3.0",
+    "licenseMetadata": "MIT",
+    "upstream": [
+      "https://www.attrs.org/",
+      "https://www.attrs.org/en/stable/changelog.html",
+      "https://github.com/python-attrs/attrs",
+      "https://github.com/sponsors/hynek",
+      "https://tidelift.com/subscription/pkg/pypi-attrs?utm_source=pypi-attrs&utm_medium=pypi"
+    ]
+  },
+  {
+    "name": "chaquopy-freetype",
+    "version": "2.9.1",
+    "licenseMetadata": "Véase texto adjunto",
+    "upstream": []
+  },
+  {
+    "name": "chaquopy-libjpeg",
+    "version": "1.5.3",
+    "licenseMetadata": "Véase texto adjunto",
+    "upstream": []
+  },
+  {
+    "name": "defusedxml",
+    "version": "0.7.1",
+    "licenseMetadata": "PSFL",
+    "upstream": [
+      "https://github.com/tiran/defusedxml"
+    ]
+  },
+  {
+    "name": "docopt",
+    "version": "0.6.2",
+    "licenseMetadata": "MIT",
+    "upstream": [
+      "http://docopt.org"
+    ]
+  },
+  {
+    "name": "et_xmlfile",
+    "version": "2.0.0",
+    "licenseMetadata": "MIT",
+    "upstream": [
+      "https://foss.heptapod.net/openpyxl/et_xmlfile",
+      "https://openpyxl.pages.heptapod.net/et_xmlfile/",
+      "https://foss.heptapod.net/openpyxl/et_xmfile/-/issues"
+    ]
+  },
+  {
+    "name": "fonttools",
+    "version": "4.55.3",
+    "licenseMetadata": "MIT",
+    "upstream": [
+      "http://github.com/fonttools/fonttools"
+    ]
+  },
+  {
+    "name": "fpdf2",
+    "version": "2.8.2",
+    "licenseMetadata": "LGPL-3.0-or-later",
+    "upstream": [
+      "https://py-pdf.github.io/fpdf2/",
+      "https://github.com/py-pdf/fpdf2",
+      "https://github.com/py-pdf/fpdf2/issues"
+    ]
+  },
+  {
+    "name": "jsonschema",
+    "version": "4.17.3",
+    "licenseMetadata": "MIT",
+    "upstream": [
+      "https://github.com/python-jsonschema/jsonschema",
+      "https://python-jsonschema.readthedocs.io/",
+      "https://github.com/python-jsonschema/jsonschema/issues/",
+      "https://github.com/sponsors/Julian",
+      "https://tidelift.com/subscription/pkg/pypi-jsonschema?utm_source=pypi-jsonschema&utm_medium=referral&utm_campaign=pypi-link",
+      "https://github.com/python-jsonschema/jsonschema/blob/main/CHANGELOG.rst"
+    ]
+  },
+  {
+    "name": "num2words",
+    "version": "0.5.14",
+    "licenseMetadata": "LGPL",
+    "upstream": [
+      "https://github.com/savoirfairelinux/num2words"
+    ]
+  },
+  {
+    "name": "openpyxl",
+    "version": "3.1.5",
+    "licenseMetadata": "MIT",
+    "upstream": [
+      "https://openpyxl.readthedocs.io",
+      "https://openpyxl.readthedocs.io/en/stable/",
+      "https://foss.heptapod.net/openpyxl/openpyxl",
+      "https://foss.heptapod.net/openpyxl/openpyxl/-/issues"
+    ]
+  },
+  {
+    "name": "pillow",
+    "version": "11.0.0",
+    "licenseMetadata": "MIT-CMU",
+    "upstream": [
+      "https://github.com/python-pillow/Pillow/blob/main/CHANGES.rst",
+      "https://pillow.readthedocs.io",
+      "https://tidelift.com/subscription/pkg/pypi-pillow?utm_source=pypi-pillow&utm_medium=pypi",
+      "https://python-pillow.org",
+      "https://fosstodon.org/@pillow",
+      "https://pillow.readthedocs.io/en/stable/releasenotes/index.html",
+      "https://github.com/python-pillow/Pillow"
+    ]
+  },
+  {
+    "name": "pyelftools",
+    "version": "0.26",
+    "licenseMetadata": "Public domain",
+    "upstream": [
+      "https://github.com/eliben/pyelftools"
+    ]
+  },
+  {
+    "name": "pypdf",
+    "version": "6.1.0",
+    "licenseMetadata": "BSD-3-Clause",
+    "upstream": [
+      "https://github.com/py-pdf/pypdf/issues",
+      "https://pypdf.readthedocs.io/en/latest/meta/CHANGELOG.html",
+      "https://pypdf.readthedocs.io/en/latest/",
+      "https://github.com/py-pdf/pypdf"
+    ]
+  },
+  {
+    "name": "pyrsistent",
+    "version": "0.20.0",
+    "licenseMetadata": "MIT",
+    "upstream": [
+      "https://github.com/tobgu/pyrsistent/",
+      "https://pyrsistent.readthedocs.io/en/latest/changes.html"
+    ]
+  },
+  {
+    "name": "qrcode",
+    "version": "8.0",
+    "licenseMetadata": "BSD",
+    "upstream": [
+      "https://github.com/lincolnloop/python-qrcode"
+    ]
+  },
+  {
+    "name": "rfc3339-validator",
+    "version": "0.1.4",
+    "licenseMetadata": "MIT license",
+    "upstream": [
+      "https://github.com/naimetti/rfc3339-validator"
+    ]
+  },
+  {
+    "name": "setuptools",
+    "version": "68.2.2",
+    "licenseMetadata": "Véase texto adjunto",
+    "upstream": [
+      "https://github.com/pypa/setuptools",
+      "https://setuptools.pypa.io/",
+      "https://setuptools.pypa.io/en/stable/history.html"
+    ]
+  },
+  {
+    "name": "six",
+    "version": "1.17.0",
+    "licenseMetadata": "MIT",
+    "upstream": [
+      "https://github.com/benjaminp/six"
+    ]
+  },
+  {
+    "name": "xlrd",
+    "version": "2.0.2",
+    "licenseMetadata": "BSD",
+    "upstream": [
+      "http://www.python-excel.org/"
+    ]
+  }
+]

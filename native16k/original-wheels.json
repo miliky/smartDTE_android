@@ -1,0 +1,46 @@
+[
+  {
+    "file": "chaquopy_freetype-2.9.1-2-py3-none-android_21_arm64_v8a.whl",
+    "sha256": "7a8262dc69d1bbf7209b3b7576744743670bd5a8cba48c7d8f08c151943ccbc7",
+    "metadata": {
+      "chaquopy_freetype-2.9.1.dist-info/METADATA": "Metadata-Version: 1.2\nName: chaquopy-freetype\nVersion: 2.9.1\nSummary: \nDownload-URL: \n\n",
+      "chaquopy_freetype-2.9.1.dist-info/WHEEL": "Wheel-Version: 1.0\nRoot-Is-Purelib: false\nGenerator: build-wheel.py\nBuild: 2\nTag: py3-none-android_21_arm64_v8a\n\n"
+    },
+    "native": [
+      "chaquopy/lib/libfreetype.so"
+    ]
+  },
+  {
+    "file": "chaquopy_freetype-2.9.1-2-py3-none-android_21_x86_64.whl",
+    "sha256": "831e0fd721d132b7b04946399d714de9945acc56dffa34f3c037592cb17c8de1",
+    "metadata": {
+      "chaquopy_freetype-2.9.1.dist-info/METADATA": "Metadata-Version: 1.2\nName: chaquopy-freetype\nVersion: 2.9.1\nSummary: \nDownload-URL: \n\n",
+      "chaquopy_freetype-2.9.1.dist-info/WHEEL": "Wheel-Version: 1.0\nRoot-Is-Purelib: false\nGenerator: build-wheel.py\nBuild: 2\nTag: py3-none-android_21_x86_64\n\n"
+    },
+    "native": [
+      "chaquopy/lib/libfreetype.so"
+    ]
+  },
+  {
+    "file": "chaquopy_libjpeg-1.5.3-1-py3-none-android_21_arm64_v8a.whl",
+    "sha256": "5555be57a2633fb5a3c0c810e89c8b705c471e3dabd95aa596fc7fdd48322728",
+    "metadata": {
+      "chaquopy_libjpeg-1.5.3.dist-info/METADATA": "Metadata-Version: 1.2\nName: chaquopy-libjpeg\nVersion: 1.5.3\nSummary: \nDownload-URL: \n\n",
+      "chaquopy_libjpeg-1.5.3.dist-info/WHEEL": "Wheel-Version: 1.0\nRoot-Is-Purelib: false\nGenerator: build-wheel.py\nBuild: 1\nTag: py3-none-android_21_arm64_v8a\n\n"
+    },
+    "native": [
+      "chaquopy/lib/libjpeg_chaquopy.so"
+    ]
+  },
+  {
+    "file": "chaquopy_libjpeg-1.5.3-1-py3-none-android_21_x86_64.whl",
+    "sha256": "0ae61fe258eb17a34e66fb6b1c233eb6c5e6a8854e0900a1806422e9f5625a86",
+    "metadata": {
+      "chaquopy_libjpeg-1.5.3.dist-info/METADATA": "Metadata-Version: 1.2\nName: chaquopy-libjpeg\nVersion: 1.5.3\nSummary: \nDownload-URL: \n\n",
+      "chaquopy_libjpeg-1.5.3.dist-info/WHEEL": "Wheel-Version: 1.0\nRoot-Is-Purelib: false\nGenerator: build-wheel.py\nBuild: 1\nTag: py3-none-android_21_x86_64\n\n"
+    },
+    "native": [
+      "chaquopy/lib/libjpeg_chaquopy.so"
+    ]
+  }
+]
